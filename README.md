@@ -1,3 +1,3 @@
 ### Olá! Bem-vindo!
 
-<img src="https://github.com/JonatasGollmann/JonatasGollmann/blob/main/githubportifolio.png?raw=true" width="100%"/>
+<img src="https://github.com/JonatasGollmann/JonatasGollmann/blob/main/githubportifolio.png?raw=true" width="120%"/>
