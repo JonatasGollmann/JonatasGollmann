@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/JonatasGollmann/JonatasGollmann/main/images/HeaderGitHubWelcome.png?raw=true" width="100%" allign="center"/>
-
+<div align=center>
+<img src="https://badges.pufler.dev/visits/JonatasGollmann/JonatasGollmann/"/> 
+</div>
 <div align=center>
   <img src="https://raw.githubusercontent.com/JonatasGollmann/JonatasGollmann/main/images/AboutMe.png?raw=true" width="90%"/>
 </div>
@@ -33,4 +35,4 @@ Mi objetivo es convertirme en un programador completo que pueda ayudar con el de
 <div>
   <a href="https://www.linkedin.com/in/jonatas-gollmann/" target="_blank"><img src="https://raw.githubusercontent.com/JonatasGollmann/JonatasGollmann/main/images/Linkedin.png?raw=true" width="15%" align="left"/></a>
   <a href="mailto:jonatasgollmann@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/JonatasGollmann/JonatasGollmann/main/images/Email.png?raw=true" width="15%" align="right"/></a>
-<div>
+</div>
