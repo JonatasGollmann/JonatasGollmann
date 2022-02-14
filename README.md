@@ -6,12 +6,18 @@
 <div>
   <h2 align="center">Hello! I'm Jonatas!</h2>
   <h3 width=50%>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. 
+    I'm a Computer Engineering student, a beginner front-end developer.
+My goal is to become a complete programmer that can help with project development and management.
   </h3>
+  <h2 align="center">Olá! Me chamo Jonatas!</h2>
   <h3>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. 
+    Sou estudante de Engenharia da Computação, desenvolvedor front-end iniciante.
+Meu objetivo é me tornar um programador completo que possa ajudar no desenvolvimento e gerenciamento de projetos.
+  </h3>
+  <h2 align="center"> Hola! Mi nombre es Jonatas!</h2>
+  <h3>
+Soy un estudiante de Ingeniería Informática, un desarrollador front-end principiante.
+Mi objetivo es convertirme en un programador completo que pueda ayudar con el desarrollo y la gestión de proyectos.
   </h3>
 </div>
  
