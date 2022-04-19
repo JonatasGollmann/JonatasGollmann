@@ -33,6 +33,6 @@ Mi objetivo es convertirme en un programador completo que pueda ayudar con el de
 </div>
 
 <div>
-  <a href="https://www.linkedin.com/in/jonatas-gollmann/" target="_blank"><img src="https://raw.githubusercontent.com/JonatasGollmann/JonatasGollmann/main/images/Linkedin.png?raw=true" width="15%" align="left"/></a>
-  <a href="mailto:jonatasgollmann@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/JonatasGollmann/JonatasGollmann/main/images/Email.png?raw=true" width="15%" align="right"/></a>
+  <a href="https://www.linkedin.com/in/jonatas-gollmann/" target="_blank"><img src="https://raw.githubusercontent.com/JonatasGollmann/JonatasGollmann/main/images/Linkedin.png?raw=true" width="25%" align="left"/></a>
+  <a href="mailto:jonatasgollmann@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/JonatasGollmann/JonatasGollmann/main/images/Email.png?raw=true" width="25%" align="right"/></a>
 </div>
